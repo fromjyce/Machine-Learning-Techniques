@@ -56,7 +56,7 @@ class App(tk.Tk):
         self.canvas.create_oval(self.x-r, self.y-r, self.x+r, self.y+r, fill='black')
 
 if __name__ == "__main__":
-    model_path = r'C:\Users\jaya2\Visual Code\ML\MiniProjects\mnist_digit_recognition_model.h5'
+    model_path = r'C:\Users\jaya2\Visual Code\ML\MiniProjects\HandwrittenDigitsRecognition\mnist_digit_recoginition.h5'
     mnist_model = load_mnist_model(model_path)
     app = App(mnist_model)
     app.mainloop()
