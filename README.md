@@ -1,15 +1,6 @@
 # Machine Learning Techniques
 This repository includes a collection of code snippets and projects centered around machine learning techniques. It showcases various implementations and experiments with machine learning algorithms, providing practical examples and solutions for different challenges within the field. Whether you're looking for insights into specific techniques or examples of machine learning applications, this repository serves as a valuable resource for exploring and understanding machine learning concepts.
 
-## Structure of the Repository
-
-The repository is organized as follows:
-
-- [**Assignments**](https://github.com/fromjyce/Machine-Learning-Techniques/tree/main/Assignments): Contains all the assignments given during the Machine Learning course taken in the fourth semester.
-- [**Data Mining**](): ncludes materials and projects from the Data Mining course taken in the fifth semester.
-- [**Lab**](https://github.com/fromjyce/Machine-Learning-Techniques/tree/main/Lab): Features lab work given during the Machine Learning Techniques lab course taken in the fourth semester.
-- [**MiniProjects**](https://github.com/fromjyce/Machine-Learning-Techniques/tree/main/MiniProjects): Contains various types of machine learning projects.
-
 ## Running the Programs
 
 The programs have been tested on the Visual Studio Code IDE in Windows 11 and Google Colab.
